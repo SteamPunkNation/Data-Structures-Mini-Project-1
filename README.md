@@ -2,6 +2,8 @@
 
 This project involves implementing Binary Search Tree (BST) and AVL tree data structures in C++, as well as solving engineering problems using priority queues. The project consists of three programs in C++ and a report explaining the strategy used to solve the problems in Part C. A demo and brief presentation about the solution approach will also be required for grading.
 
+![image](https://user-images.githubusercontent.com/23602136/225462703-2bacee2c-456f-49c9-bacc-d8ab92d6d3be.png)
+
 ## Team Members
 
 - Noah Legault
